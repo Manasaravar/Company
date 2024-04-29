@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: Company;
+server:
+  port: 8000
